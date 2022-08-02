@@ -1,0 +1,10 @@
+C:\PTPMUD\BunifuFW\BLL_Iphones\bin\Debug\BLL_Iphones.dll
+C:\PTPMUD\BunifuFW\BLL_Iphones\bin\Debug\BLL_Iphones.pdb
+C:\PTPMUD\BunifuFW\BLL_Iphones\bin\Debug\BunifuFW.dll
+C:\PTPMUD\BunifuFW\BLL_Iphones\bin\Debug\BunifuFW.pdb
+C:\PTPMUD\BunifuFW\BLL_Iphones\bin\Debug\BunifuFW.dll.config
+C:\PTPMUD\BunifuFW\BLL_Iphones\obj\Debug\BLL_Iphones.csproj.AssemblyReference.cache
+C:\PTPMUD\BunifuFW\BLL_Iphones\obj\Debug\BLL_Iphones.csproj.CoreCompileInputs.cache
+C:\PTPMUD\BunifuFW\BLL_Iphones\obj\Debug\BLL_Iphones.csproj.CopyComplete
+C:\PTPMUD\BunifuFW\BLL_Iphones\obj\Debug\BLL_Iphones.dll
+C:\PTPMUD\BunifuFW\BLL_Iphones\obj\Debug\BLL_Iphones.pdb
